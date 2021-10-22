@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Oiii eu sou a Allan Reymond, Dev Júnior atualmente em busca do seu espaço!!!
 <div align="center">
   <a href="https://github.com/AllanRDS">
-  <img justify-content="space-between" height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanRDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanRDS&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img justify-content="space-between" height="160em" src="https://github-readme-stats.vercel.app/api?username=AllanRDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanRDS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
