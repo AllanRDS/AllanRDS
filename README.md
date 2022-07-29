@@ -18,6 +18,7 @@
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Allan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Allan-C++" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
   <img align="right" alt="Allan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/886765900584341574/901189754094248038/134276672_306665957417902_305232637861015145_n.jpg">
 </div>
   
