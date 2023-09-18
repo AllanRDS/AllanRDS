@@ -1,5 +1,4 @@
-# 👋 Bem-vindo ao meu perfil do GitHub!
-
+# 👋 Bem-vindo ao meu perfil do GitHub!s
 ## Sobre Mim
 - 🌱 Atualmente cursando Ciência da Computação (2023-2026).
 - 👯 Desenvolvedor Júnior (Full-Stack).
