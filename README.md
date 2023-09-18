@@ -1,11 +1,18 @@
-### Olá 👋
+# 👋 Bem-vindo ao meu perfil do GitHub!
 
+## Sobre Mim
+- 🌱 Atualmente cursando Ciência da Computação (2023-2026).
+- 👯 Desenvolvedor Júnior (Full-Stack).
+- 🔭 Atualmente em busca de oportunidades de estágio.
 
-- 🔭 Atualmente em Procura de Estágio ...
-- 🔭 Inglês proeficiente o suficiente para leitura e conversação sobre coisas de trabalho e dia a dia ...
-- 🌱 Cursando Ciência da Computação (2023-2026)
-- 👯 Dev Jr (Full-Stack)
+## Habilidades
+- 🌐 Inglês (Avançado) - Proficiente para leitura, escrita e comunicação em ambientes de trabalho.
+- 💻 Linguagens de Programação: HTML, CSS, JavaScript, Java, Python.
+- 🔄 Metodologias Ágeis: Scrum e Kanban.
+- 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
 
+## Contato
+- 📧 Email: allanreymond.developer@gmail.com
 
 
 <div align="center">
