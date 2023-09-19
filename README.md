@@ -30,7 +30,7 @@
   <img align="center" alt="Allan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />        
   <img align="center" alt="Allan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />        
 
-<img align="right" alt="Allan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/886765900584341574/901189754094248038/134276672_306665957417902_305232637861015145_n.jpg">
+
 </div>
   
   ##
