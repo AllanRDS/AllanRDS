@@ -11,8 +11,17 @@
 - 🔄 Metodologias Ágeis: Scrum e Kanban.
 - 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
 
-## Contato
-- 📧 Email: allanreymond.developer@gmail.com
+## Contatos
+<div> 
+  <a href="https://www.youtube.com/channel/UCxIQvT8QN7hH3kadLpF3Ppw" target="_blank" markdown: kramdown ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/allanrds_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+  <a href = "mailto:allanreymond.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href=https://www.linkedin.com/in/allanrds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+</div>
+
+##
+
+
 
 <div display="flex">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,6 +34,7 @@
 <br>
 
 
+## Tecnologias
 <div display = "flex">
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,12 +46,6 @@
 </div>
 
 </div>
-  
-  ##
+
+##
  
-<div> 
-  <a href="https://www.youtube.com/channel/UCxIQvT8QN7hH3kadLpF3Ppw" target="_blank" markdown: kramdown ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/allanrds_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-  <a href = "mailto:allanreyemi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href=https://www.linkedin.com/in/allanrds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
-</div>
