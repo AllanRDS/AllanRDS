@@ -16,7 +16,7 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=AllanRDS&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AllanRDS&layout=compact&langs_count=8&card_width=320&theme=dark" />
