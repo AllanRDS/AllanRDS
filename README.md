@@ -12,6 +12,7 @@
 - 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
 
 ## Contatos
+- 📧 Email: allanreymond.developer@gmail.com
 <div top="30px"> 
   <a href="https://www.youtube.com/channel/UCxIQvT8QN7hH3kadLpF3Ppw" target="_blank" markdown: kramdown ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.instagram.com/allanrds_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
