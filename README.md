@@ -11,10 +11,10 @@
 - 🔄 Metodologias Ágeis: Scrum e Kanban.
 - 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
 
+## E-mail
+- 📧 Email: allanreymond.developer@gmail.com
+
 ## Tecnologias e Contatos
-
-
-
 
 <div display="flex">
 <a href="https://github.com/anuraghazra/github-readme-stats">
