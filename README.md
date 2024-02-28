@@ -2,17 +2,17 @@
 
 ## Sobre Mim
 - 🌱 Atualmente cursando Ciência da Computação (2023-2026).
-- 👯 Desenvolvedor Júnior (Full-Stack).
+- 👯 Aspirante a Estágio em Desenvolvimento ou Desenvolvedor Junior
 - 🔭 Atualmente em busca de oportunidades de estágio.
 
 ## Habilidades
-- 🌐 Inglês (Avançado) - Proficiente para leitura, escrita e comunicação em ambientes de trabalho.
+- 🌐 Inglês (Intermediário) - Proficiente para leitura, escrita e comunicação em ambientes de trabalho.
 - 💻 Linguagens de Programação: HTML, CSS, JavaScript, Java, Python.
 - 🔄 Metodologias Ágeis: Scrum e Kanban.
 - 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
 
 ## E-mail
-- 📧 Email: allanreymond.developer@gmail.com
+- 📧 Email: allanreymond.dev@skiff.com
 
 ## Tecnologias e Contatos
 
