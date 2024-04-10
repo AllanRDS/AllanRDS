@@ -1,46 +1,46 @@
-# 👋 Bem-vindo ao meu perfil do GitHub!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193549&height=120&section=header"/>
 
-## Sobre Mim
-- 🌱 Atualmente cursando Ciência da Computação (2023-2026).
-- 👯 Aspirante a Estágio em Desenvolvimento ou Desenvolvedor Junior
-- 🔭 Atualmente em busca de oportunidades de estágio.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&center=true&vCenter=true&width=800&height=100&lines=OLÁ!!+Meu+Nome+é+Allan;Bem+Vindo+Ao+Meu+Perfil!!&color=#8a5ac7)](https://git.io/typing-svg)
 
-## Habilidades
-- 🌐 Inglês (Intermediário) - Proficiente para leitura, escrita e comunicação em ambientes de trabalho.
-- 💻 Linguagens de Programação: HTML, CSS, JavaScript, Java, Python.
-- 🔄 Metodologias Ágeis: Scrum e Kanban.
-- 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
+<div align="center">
+    <img src=https://i.redd.it/yym6g64zyn5a1.jpg alt=personalifivibes style="width: 50%">
+</p>
 
-## E-mail
-- 📧 Email: allanreymond.dev@skiff.com
+## Estatísticas 
 
-## Tecnologias e Contatos
-
-<div display="flex">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AllanRDS&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AllanRDS&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-</div>
-<br>
-
-<div display = "flex">
-  <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Allan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Allan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Allan-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />        
-  <img align="center" alt="Allan-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
-  <img align="center" alt="Allan-MySQL" height ="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<div align="center">
+  <a href="https://github.com/ArthurSous4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurSous4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSous4&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-</div>
+## Aprendendo:
 
-##
- <div top="30px"> 
-  <a href="https://www.youtube.com/channel/UCxIQvT8QN7hH3kadLpF3Ppw" target="_blank" markdown: kramdown ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/allanrds_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-  <a href = "mailto:allanreymond.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href=https://www.linkedin.com/in/allanrds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
-</div>
+<div align="center"><br>
+   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                
+
+### Redes sóciais
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4rthur_lucas28/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lucas-12b286195)
+
+## Cursando:
+ 
+## ⌛🎓Engenharia da computação 7/10
+   (UNINASSAU GRAÇAS; RECIFE-PE)
+
+## Cursado:
+
+## 🚀 Condomínio Digital 4.0
+   (Softex Porto Digital; RECIFE_PE)
+
+## 🎓Técnico em Redes de Computadores 
+   (ETE GEC)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193549&height=120&section=footer"/>
