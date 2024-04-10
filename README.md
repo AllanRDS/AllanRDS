@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=07FEFFFF"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E4E4E4"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=32&pause=1000&color=07FEFF&center=true&vCenter=true&random=false&width=800&height=100&lines=Bem+Vindo+Ao+Meu+Perfil;Meu+Nome+%C3%A9+Allan+Reymond)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=32&pause=1000&color=E4E4E4&center=true&vCenter=true&random=false&width=800&height=100&lines=Bem+Vindo+Ao+Meu+Perfil;Meu+Nome+%C3%A9+Allan+Reymond)](https://git.io/typing-svg)
 
 ## Sobre Mim
 - 🌱 Atualmente cursando Ciência da Computação (2023-2026).
@@ -47,4 +47,4 @@
   <a href=https://www.linkedin.com/in/allanrds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=07FEFFFF&reversal=false&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E4E4E4&reversal=false&section=footer"/>
