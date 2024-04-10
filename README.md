@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao meu perfil do GitHub!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&center=true&vCenter=true&width=800&height=100&lines=OLÁ!!+Meu+Nome+é+Allan Reymond;Bem+Vindo+Ao+Meu+Perfil!!&color=#8a5ac7)](https://git.io/typing-svg)
 
 ## Sobre Mim
 - 🌱 Atualmente cursando Ciência da Computação (2023-2026).
