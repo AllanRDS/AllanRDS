@@ -1,4 +1,4 @@
-Welcome Page - # 👋 Bem-vindo ao meu perfil do GitHub!
+# 👋 Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre Mim
 - 🌱 Atualmente cursando Ciência da Computação (2023-2026).
