@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=06DDDFFF&text=Input%20text"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=06DDDF&center=true&vCenter=true&random=false&width=800&height=100&lines=Meu+nome+%C3%A9+Allan+Reymond;Bem+vindo+ao+meu+Perfil)](https://git.io/typing-svg)
 
 ## Sobre Mim
