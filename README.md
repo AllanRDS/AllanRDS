@@ -14,7 +14,7 @@
 - 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
 
 ## E-mail
-- 📧 Email: allanreymond.dev@skiff.com
+- 📧 Email: allanreyemi@outlook.com
 
 ## Tecnologias e Contatos
 
