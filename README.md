@@ -9,7 +9,7 @@
 
 ## Habilidades
 - 🌐 Inglês (Intermediário) - Proficiente para leitura, escrita e comunicação em ambientes de trabalho.
-- 💻 Linguagens de Programação: HTML, CSS, JavaScript, Java, Python.
+- 💻 Linguagens de Programação: HTML, CSS, JavaScript, Java, Python, Angular, Tailwind, Bootstrap
 - 🔄 Metodologias Ágeis: Scrum e Kanban.
 - 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
 
