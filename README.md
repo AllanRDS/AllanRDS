@@ -14,7 +14,7 @@
 - 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
 
 ## E-mail
-- 📧 Email: allanreyemi@outlook.com
+- 📧 Email: allanreymond@proton.me
 
 ## Tecnologias e Contatos
 
