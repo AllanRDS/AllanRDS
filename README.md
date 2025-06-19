@@ -53,11 +53,11 @@ if (you = "Need Developer") {
   <img src="https://img.shields.io/badge/Spring_Boot-SpringBoot?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 <br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-  <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+ 
 </p>
  <div display="flex" align="center" top="30px"> 
   <a href="https://www.youtube.com/channel/UCxIQvT8QN7hH3kadLpF3Ppw" target="_blank" markdown: kramdown ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
