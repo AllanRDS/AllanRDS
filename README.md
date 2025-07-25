@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 - 🌱 Atualmente cursando Ciência da Computação (2023-2026).
-- 👯 Aspirante a Estágio em Desenvolvimento ou Desenvolvedor Junior
+- 👯 Estagiario Full-Stack Avanade 
 - 🔭 Atualmente em busca de oportunidades de estágio.
 
 ## Habilidades
