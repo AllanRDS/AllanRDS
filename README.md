@@ -7,7 +7,6 @@
 ## Sobre Mim
 - 🌱 Atualmente cursando Ciência da Computação (2023-2026).
 - 👯 Estagiario Full-Stack Avanade 
-- 🔭 Atualmente em busca de oportunidades de estágio.
 
 ## Habilidades
 - 🌐 Inglês (Intermediário) - Proficiente para leitura, escrita e comunicação em ambientes de trabalho.
