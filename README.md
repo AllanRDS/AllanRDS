@@ -1,49 +1,58 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E4E4E4"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=32&pause=1000&color=E4E4E4&center=true&vCenter=true&random=false&width=800&height=50&lines=Bem+Vindo+Ao+Meu+Perfil;Meu+Nome+%C3%A9+Allan+Reymond)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=32&pause=1000&color=E4E4E4&center=true&vCenter=true&random=false&width=800&height=50&lines=Bem-vindo+ao+meu+Perfil;Allan+Reymond+%7C+Data+Analyst)](https://git.io/typing-svg)
 
 ## Sobre Mim
-- 🌱 Atualmente cursando Ciência da Computação (2023-2026).
-- 👯 Estagiario Full-Stack Avanade 
+- 📊 **Data Analyst na Avanade**, atuando no desenvolvimento e sustentação de soluções de BI, dashboards corporativos e modelagem dimensional.
+- 🎓 Bacharelado em **Ciência da Computação** (2023–2026).
+- 📜 **4x Microsoft Certified:** AZ-900 | DP-900 | AI-900 | PL-900.
+- 🌐 **Inglês Intermediário/Avançado (B2.2 - GoFluent)**.
 
-## Habilidades
-- 🌐 Inglês (Intermediário) - Proficiente para leitura, escrita e comunicação em ambientes de trabalho.
-- 💻 Tecnologias: HTML, CSS, JavaScript, Java, Python, Angular, Tailwind, Bootstrap
-- 🔄 Metodologias Ágeis: Scrum e Kanban.
-- 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
+## Habilidades & Tecnologias
+- **Business Intelligence & Visualização:** Power BI, DAX, KPI Design, Dashboards & Relatórios.
+- **Modelagem & Bancos de Dados:** Modelagem Dimensional (Star Schema, Snowflake), SQL Server, PostgreSQL, SQL.
+- **Engenharia & Analytics:** Databricks, Apache Spark, Camada Gold, Processos ETL/ELT.
+- **Cloud & Ferramentas:** Microsoft Azure, Azure DevOps, Git, GitHub, Jira, Confluence.
+- **Metodologias:** Scrum, Kanban, Agile.
 
-## E-mail
-- 📧 Email: allanreymond@proton.me
+## Estatísticas do GitHub
 
-## Tecnologias e Contatos
-
-<div display="flex">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AllanRDS&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AllanRDS&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=170 src="https://github-readme-stats.vercel.app/api?username=AllanRDS&theme=dark&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=AllanRDS&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
 </div>
+
 <br>
 
-<div display = "flex">
-  <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Allan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Allan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Allan-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />        
-  <img align="center" alt="Allan-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
-  <img align="center" alt="Allan-MySQL" height ="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<div align="center">
+  <img alt="Power BI" height="40" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png">
+  &nbsp;&nbsp;
+  <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Apache Spark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-</div>
+<br>
 
-##
- <div top="30px"> 
-  <a href="https://www.youtube.com/channel/UCxIQvT8QN7hH3kadLpF3Ppw" target="_blank" markdown: kramdown ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/allanrds_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-  <a href = "mailto:allanreymond.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href=https://www.linkedin.com/in/allanrds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+## Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/allanrds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:allanreymond@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href="mailto:allanreymond.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/allanrds_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E4E4E4&reversal=false&section=footer"/>
