@@ -15,17 +15,6 @@
 - **Cloud & Ferramentas:** Microsoft Azure, Azure DevOps, Git, GitHub, Jira, Confluence.
 - **Metodologias:** Scrum, Kanban, Agile.
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=170 src="https://github-readme-stats.vercel.app/api?username=AllanRDS&theme=dark&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=AllanRDS&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
